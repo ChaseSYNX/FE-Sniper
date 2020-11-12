@@ -9,7 +9,7 @@ _G.AutoReanimate = true --Set to true if you want to auto reanimate and disable 
 loadstring(game:HttpGet("https://paste.ee/r/pt8Dx/0"))()
 
 --//====================================================\\--
---||		 CREATED BY @ChaseSkid
+--||		 CREATED BY x0rs#4411
 --\\====================================================//--
 
 --Hat = https://web.roblox.com/catalog/5063578607/Cyberpunk-Sniper
